@@ -12,6 +12,8 @@
     <%= i %>
     <% } %>
     
-    <a href="step-1.jsp">step-1.jsp</a>
+    <!-- ? : querystring 방식 주소?변수명=값&변수명=값  -->
+    
+    <a href="step-1.jsp?name=홍길동&age=20">step-1.jsp</a>
     </body>
 </html>
